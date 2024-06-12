@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
   header: {
     height: 250,
     overflow: 'hidden',
+    backgroundColor:'red',
   },
   content: {
     flex: 1,
